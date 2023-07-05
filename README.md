@@ -19,8 +19,8 @@
 <p align="left">
 <a href="https://codepen.io/onlybond" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="onlybond" height="30" width="40" /></a>
 <a href="https://twitter.com/sudrakeval" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudrakeval" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/keval sudra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keval sudra" height="30" width="40" /></a>
-<a href="https://instagram.com/keval_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keval_xd" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/keval-sudra-b34b32201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keval sudra" height="30" width="40" /></a>
+<a href="https://instagram.com/onlybond7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keval_xd" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kevalsudra777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kevalsudra777" height="30" width="40" /></a>
 <a href="https://discord.gg/onlybond#8491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="onlybond#8491" height="30" width="40" /></a>
 </p>
